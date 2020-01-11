@@ -7,7 +7,7 @@ References:
 https://arxiv.org/abs/1411.4389
 https://www.mdpi.com/1424-8220/16/1/115/html
 
-Combine Deel CNN and LSTM
+- Combining CNN and LSTM
 ![alt_text](https://3qeqpr26caki16dnhd19sv6by6v-wpengine.netdna-ssl.com/wp-content/uploads/2018/07/Depiection-of-CNN-LSTM-Model-for-Activity-Recognition.png)
 
 - LSTM network models are a type of recurrent neural network that are able to learn and remember over long sequences of input data. They are intended for use with data that is comprised of long sequences of data, up to 200 to 400 time steps.
